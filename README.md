@@ -3,7 +3,7 @@
 <h3 align="center">A student that fall in love with coding</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joanpoerba&label=Profile%20views&color=0e75b6&style=flat" alt="joanpoerba" /> </p>
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=AdamIskhandar&style=flat-square)" alt="AdamIskhandar" /> </p>
 
 - 🔭 I’m currently studying at [UPTM](https://www.uptm.edu.my/)
 
